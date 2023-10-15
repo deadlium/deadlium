@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on @airchains-network<br>🌱 I’m currently a Developer who turn imagination into groundbreaking products with passion.<br>💬 Ask me about anything (backend, frontend and flutter), I'm happy to answer you<br>🤝 How to reach Me : https://telegram.me/deadlium
+🔭 I’m currently working on @airchains-network<br>🌱 I’m currently a Developer who turn imagination into groundbreaking products with passion.<br>💬 Ask me about anything (backend, frontend and flutter), I'm happy to answer you<br>🤝 How to reach Me : [deadlium](https://telegram.me/deadlium)
 
 
 ## 🌐 Socials:
